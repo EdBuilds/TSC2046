@@ -1,6 +1,6 @@
 # tsc2046
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/EdBuilds/TSC2046/Rust?style=for-the-badge&logo=github&labelColor=555555)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/EdBuilds/TSC2046/ci.yml?style=for-the-badge&labelColor=555555)
 ![Crates.io Version](https://img.shields.io/crates/v/tsc2046?style=for-the-badge&labelColor=555555)
 ![docs.rs](https://img.shields.io/docsrs/tsc2046?style=for-the-badge&labelColor=555555)
 
